@@ -1,4 +1,4 @@
-# mysql-2
+## MySQL Project: Strategic Insights for Business Growth
 
 The set of MySQL queries provided offers an in-depth analysis of various aspects of the business's performance and trends, enabling informed decision-making and future strategic planning. The objective of this analysis is to extract meaningful insights from the data and present key metrics to stakeholders, highlighting achievements, areas of improvement, and opportunities for growth.
 
